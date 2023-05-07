@@ -1,5 +1,5 @@
 # Taskinator
-A simple task web application where you can save, edit and delete the tasks. Enter a task name, pick the task's "type", then click add task to add it on the list.
+A simple web application where you can save, edit and delete the tasks. Enter a task name, pick the task's "type", then click add task to add it on the list.
 You can edit, delete, and change the progress of each task with a little drop down menu that gets added to each task in the list.
 The task then changes it's location depending on the status that is chosen through the dropdown menu, you're be able to create tasks by entering a task name, selecting a type, and clicking an "Add Task" button. Then you'll be able to organize them into Tasks To Do, Tasks In Progress, and Tasks Completed lists by using the dropdown to change the task status.
 ## Taskinator will allow you to organize your personal to-do list items by using a dropdown menu to change the task status and move the task into To Do, In Progress, and Completed lists. 
